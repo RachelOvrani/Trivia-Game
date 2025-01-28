@@ -1,0 +1,24 @@
+# תיקיות Build
+/.vs
+/Debug
+/x64
+/tests
+
+
+
+# קבצים בינאריים
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# קבצים זמניים
+*.tmp
+*.log
+*.user
+*.suo
+*.ipch
+
+# קבצים אחרים שאינם נחוצים
+*.opensdf
+*.sdf
